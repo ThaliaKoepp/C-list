@@ -1,8 +1,8 @@
- *##API
+  *#API
 
 ```c
 
-/ !
+/  
 ** return value: if the API function has return value.return 0 for fail.return 1 for success.
 **/
 
@@ -58,4 +58,4 @@ typedef struct list {
 ### wiki
 
 中文wiki见:[http://hit9.org/wiki/C-list/](http://hit9.org/wiki/C-list/)
-  
+   
